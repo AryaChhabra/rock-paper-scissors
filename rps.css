@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(26, 24, 24);
+  color: white;
+  font-family: Arial;
+}
+
+.rps {
+  background-color: transparent;
+  border: 2px solid white;
+  outline: none;
+  border-radius: 50%;
+  color: white;
+  width: 180px;
+  height: 180px;
+  cursor: pointer;
+}
+img {
+  width: 70px;
+  height: 70px;
+}
+
+.result {
+  color: white;
+  font-size: 24px;
+  font-weight: 500;
+}
